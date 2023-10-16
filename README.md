@@ -1,2 +1,2 @@
-# blind75
-Here is a solutions for neetcode blind 75 problems
+# Leetocode problems I solved till date
+Just dumping the solutions of leetcode problems I encountered.
